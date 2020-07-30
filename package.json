@@ -1,0 +1,20 @@
+{
+    "name": "practice1-ts",
+    "version": "1.0.0",
+    "description": "practice-typescript",
+    "main": "hello.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Lee-ji-soo/practice1-TS.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Lee-ji-soo/practice1-TS/issues"
+    },
+    "homepage": "https://github.com/Lee-ji-soo/practice1-TS#readme"
+}
