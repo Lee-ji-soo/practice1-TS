@@ -1,2 +1,2 @@
-# practiceTypescript
+# practice Typescript
 practice-typescript
