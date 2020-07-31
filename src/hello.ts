@@ -1,4 +1,2 @@
-import add from './util.js'
-
-const returnValue = add(1, 2);
-console.log(returnValue);
+var score1 = 0;
+var score2 = 200;

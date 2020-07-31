@@ -1,4 +1,3 @@
-import add from './util.js';
-var returnValue = add(1, 2);
-console.log(returnValue);
+var score1 = 0;
+var score2 = 200;
 //# sourceMappingURL=hello.js.map
